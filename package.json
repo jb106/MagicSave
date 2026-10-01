@@ -1,0 +1,17 @@
+{
+  "name": "com.lonefire.magic-save",
+  "displayName": "Magic Save",
+  "version": "0.1.0",
+  "unity": "6000.0",
+  "description": "Global and per-game saves, JSON based",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  },
+  "samples": [
+    {
+      "displayName": "Example",
+      "description": "Data classes, save manager, saveable object and menu",
+      "path": "Samples~/Example"
+    }
+  ]
+}
